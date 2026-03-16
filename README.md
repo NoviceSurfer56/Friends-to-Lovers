@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1hh5HpOXvOLc8aIP024lq1ra8zLZw_ZNT/view?usp=sharing
+
 # Friends-to-Lovers
 This is a visual novel about a woman named Angie being in love with her friend, Lucy. She has two options. Confess her feelings or console her. This is made from Ren' Py.
 
