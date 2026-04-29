@@ -15,3 +15,7 @@ Game Engine -> Ren'Py
 <img width="1401" height="792" alt="Friends_to_Lovers Screenshot1" src="https://github.com/user-attachments/assets/1a257e46-f36e-49bc-881e-c3e2493917e4" />
 <img width="1425" height="853" alt="Friends_to_Lovers Screenshot2" src="https://github.com/user-attachments/assets/a403f1a9-949d-46a8-9dea-11dc92efd3d7" />
 <img width="1405" height="845" alt="Friends_to_Lovers Screenshot3" src="https://github.com/user-attachments/assets/324233f1-a46d-453a-8d48-5379ffe7fcae" />
+
+Update:
+The final version is done!
+Here is the link for for it on Itchi.io: 
