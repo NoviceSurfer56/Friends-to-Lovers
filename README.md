@@ -1,5 +1,5 @@
 Link to Friends to Lovers Beta Version
-https://drive.google.com/file/d/1hh5HpOXvOLc8aIP024lq1ra8zLZw_ZNT/view?usp=sharing
+<button>Friends to Lovers Beta<a href="https://drive.google.com/file/d/1hh5HpOXvOLc8aIP024lq1ra8zLZw_ZNT/view?usp=sharing"</a><button>
 
 # Friends-to-Lovers
 This is a visual novel about a woman named Angie being in love with her friend, Lucy. She has two options. Confess her feelings or console her. This is made from Ren' Py. I want to point out this one is extremely short. This is my first Ren'Py game. This is the beta version and the final version will be here, soon.
@@ -19,3 +19,4 @@ Game Engine -> Ren'Py
 Update:
 The final version is done!
 Here is the link for for it on Itchi.io: 
+<button>Friends to Lovers on Itchi.io<a href="https://r0seyth0rns.itch.io/friends-to-lovers"</a><button>
