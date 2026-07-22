@@ -28,4 +28,4 @@ Pc:
 https://drive.google.com/file/d/17FNGrjjRQQReOQZ5iqLEdx_bjYGu28q8/view?usp=drivesdk
 
 Android:
-https://drive.google.com/file/d/17FNGrjjRQQReOQZ5iqLEdx_bjYGu28q8/view?usp=drivesdk
+https://drive.google.com/file/d/1FSKK4w2fSWXIeIUIeXoN-3h_3hqzbRj7/view?usp=drivesdk
