@@ -20,3 +20,12 @@ Update:
 The final version is done!
 Here is the link for for it on Itchi.io: 
 https://r0seyth0rns.itch.io/friends-to-lovers
+
+Update, 7.22.26:
+You can now find it on Google Drive
+and this version has the icon .exe.
+Pc:
+https://drive.google.com/file/d/17FNGrjjRQQReOQZ5iqLEdx_bjYGu28q8/view?usp=drivesdk
+
+Android:
+https://drive.google.com/file/d/17FNGrjjRQQReOQZ5iqLEdx_bjYGu28q8/view?usp=drivesdk
