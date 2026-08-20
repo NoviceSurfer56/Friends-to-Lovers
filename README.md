@@ -29,3 +29,8 @@ https://drive.google.com/file/d/17FNGrjjRQQReOQZ5iqLEdx_bjYGu28q8/view?usp=drive
 
 Android:
 https://drive.google.com/file/d/1FSKK4w2fSWXIeIUIeXoN-3h_3hqzbRj7/view?usp=drivesdk
+
+Android 2.0Final Version:
+https://drive.google.com/file/d/14rF4_WHBF-oES2XS4VMJNXaU4Sd1ygKu/view?usp=drivesdk
+
+So, here's an update. You can also find it on Itch.io.
